@@ -1,0 +1,71 @@
+#base {
+    width: 100%;
+    margin: 0px auto;
+    background: url("http://www.soloprosuccess.com/wp-content/uploads/2014/02/purple-sparkle2.jpg");
+    background-size:cover;
+    
+   
+}
+
+
+#content {
+    width: 600px;
+    padding-top: 5px;
+    margin:0 auto;
+    
+    
+}
+
+.background {
+    width: 80%;
+    margin: 5px auto;
+    border-collapse: collapse;
+    border: purple solid;
+    border-radius: 6px;
+    background:rgba(255,102,255,.8);
+    padding: 10px;
+    
+    
+}
+
+.heading {
+    color: ghostwhite;
+    width: 80%;
+    margin:5px auto;
+    font-weight: bolder;
+}
+
+.col-1 {
+    float: left;
+    width: 150px;
+    font-weight: bolder;
+}
+
+.col-2 {
+    display: inline;
+    width: 100px;
+}
+
+
+
+
+input[type="text"] {
+    color: black;
+    width: 250;
+}
+
+button {
+    background: darkviolet;
+    height: 50px;
+    width: 100px;
+    font-weight: bolder;
+    
+    border-radius: 20px;
+}
+
+.button-1 {
+    color: ghostwhite;
+    width: 100px;
+    margin: 0 auto;
+    font-weight: bolder;
+}
